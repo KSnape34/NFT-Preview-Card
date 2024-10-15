@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [NFT Preview Card](https://www.frontendmentor.io/solutions/nft-preview-card-with-html-and-css-lBIgvvdNz4)
 - Live Site URL: [NFT Preview Card](https://ksnape34.github.io/NFT-Preview-Card/)
 
 ## My process
