@@ -24,14 +24,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![NFT Preview](https://github.com/user-attachments/assets/a544b523-406d-426f-b0ff-261f1815853d)
 
 
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [NFT Preview Card](https://ksnape34.github.io/NFT-Preview-Card/)
 
 ## My process
 
